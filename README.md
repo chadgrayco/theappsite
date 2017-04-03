@@ -1,5 +1,2 @@
 # theappsite
-Developing website to host our upcoming app
-Learning how to use github so we can get shit done!
-Im learning over here!!!!
-what about me? am i learning?
+Ok so now what we need to do is import our site files into GitHub and we are on our way... that was pretty fucking easy i thought this was going to be way more complicated... 
