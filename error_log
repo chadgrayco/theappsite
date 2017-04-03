@@ -1,0 +1,43 @@
+[13-Mar-2017 23:00:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[13-Mar-2017 23:01:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[13-Mar-2017 23:01:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[13-Mar-2017 23:02:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[13-Mar-2017 23:02:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[13-Mar-2017 23:03:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[13-Mar-2017 23:04:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[13-Mar-2017 23:07:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[13-Mar-2017 23:08:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[13-Mar-2017 23:11:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[14-Mar-2017 05:12:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[14-Mar-2017 05:12:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[14-Mar-2017 05:13:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[14-Mar-2017 05:14:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/graybros/public_html/dbh.php on line 5
+[14-Mar-2017 05:16:45 America/Chicago] PHP Fatal error:  Call to undefined function vardump() in /home2/graybros/public_html/dbh.php on line 3
+[14-Mar-2017 05:17:48 America/Chicago] PHP Fatal error:  Call to undefined function vardump() in /home2/graybros/public_html/dbh.php on line 3
+[14-Mar-2017 13:39:27 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/graybros/public_html/dbh.php on line 2
+[14-Mar-2017 13:39:27 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/graybros/public_html/signup.php on line 9
+[14-Mar-2017 13:39:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/graybros/public_html/dbh.php:2) in /home2/graybros/public_html/signup.php on line 11
+[14-Mar-2017 13:40:32 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/graybros/public_html/signup.php on line 9
+[14-Mar-2017 13:40:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/graybros/public_html/dbh.php:7) in /home2/graybros/public_html/signup.php on line 11
+[14-Mar-2017 13:41:22 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/graybros/public_html/signup.php on line 9
+[14-Mar-2017 13:41:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/graybros/public_html/dbh.php:7) in /home2/graybros/public_html/signup.php on line 11
+[14-Mar-2017 13:44:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/graybros/public_html/dbh.php:7) in /home2/graybros/public_html/signup.php on line 11
+[14-Mar-2017 14:32:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/graybros/public_html/dbh.php:7) in /home2/graybros/public_html/signup.php on line 11
+[14-Mar-2017 14:40:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/graybros/public_html/dbh.php:7) in /home2/graybros/public_html/signup.php on line 11
+[14-Mar-2017 14:42:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/graybros/public_html/dbh.php:7) in /home2/graybros/public_html/signup.php on line 11
+[14-Mar-2017 14:48:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/graybros/public_html/dbh.php:7) in /home2/graybros/public_html/signup.php on line 11
+[14-Mar-2017 14:51:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/graybros/public_html/dbh.php:7) in /home2/graybros/public_html/signup.php on line 11
+[14-Mar-2017 14:54:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/graybros/public_html/dbh.php:7) in /home2/graybros/public_html/signup.php on line 11
+[14-Mar-2017 15:02:55 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'graybros_Users'@'localhost' (using password: YES) in /home2/graybros/public_html/signup.php on line 3
+[14-Mar-2017 15:04:44 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'graybros_kyle'@'localhost' (using password: YES) in /home2/graybros/public_html/signup.php on line 3
+[14-Mar-2017 15:12:30 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'graybros_kyle'@'localhost' (using password: YES) in /home2/graybros/public_html/signup.php on line 3
+[14-Mar-2017 15:21:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/graybros/public_html/signup.php on line 23
+[14-Mar-2017 15:22:50 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/graybros/public_html/signup.php on line 23
+[14-Mar-2017 15:24:43 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home2/graybros/public_html/signup.php on line 8
+[14-Mar-2017 15:27:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/graybros/public_html/signup.php on line 23
+[14-Mar-2017 15:29:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/graybros/public_html/signup.php on line 22
+[14-Mar-2017 15:30:15 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/graybros/public_html/signup.php on line 22
+[14-Mar-2017 15:32:24 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/graybros/public_html/signup.php on line 23
+[14-Mar-2017 15:33:52 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home2/graybros/public_html/signup.php on line 8
+[14-Mar-2017 15:36:34 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home2/graybros/public_html/signup.php on line 8
+[14-Mar-2017 15:44:52 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/graybros/public_html/signup.php on line 15
