@@ -14,9 +14,11 @@
     
 <!--sign in register form-->
     <form action="signin.php" method="post">
-        user: <input type="text" name="uname" id="uname" placeholder="knock knock who's there?">
+        <input type="text" name="uname" id="uname" placeholder="knock knock who's there?">
+        <br>
         </br>
-        pass: <input type="password" name="password" id="password" placeholder="what's the magic word?">
+        <input type="password" name="password" id="password" placeholder="what's the magic word?">
+        <br>
         </br>
         <input type="submit" value="Final Answer!">
     </form>
@@ -27,9 +29,15 @@
 <!--sign up form-->
     <form action="signup.php" method="post">
         <h2>or... sign up</h2>
-        email:<input type="email" name="email" id="email" placeholder="email"><br>
-        username:<input type="text" name="username" id="username" placeholder="username"><br>
-        password:<input type="password" name="password" id="password" placeholder="fuck it up"><br>
+        <input type="email" name="email" id="email" placeholder="email">
+        <br>
+        </br>
+        <input type="text" name="username" id="username" placeholder="username">
+        <br>
+        </br>
+        <input type="password" name="password" id="password" placeholder="password">
+        <br>
+        </br>
         <input type="submit">
 
     </form>
